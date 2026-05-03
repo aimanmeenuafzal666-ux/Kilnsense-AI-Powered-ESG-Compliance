@@ -68,7 +68,7 @@ export default function RootLayout({
               target="_blank" 
               rel="noopener noreferrer"
             >
-            Aiman Afzal — Founder & Creator of KilnSense
+            Aiman Afzal 
             </a>
            </div>
             </div>
