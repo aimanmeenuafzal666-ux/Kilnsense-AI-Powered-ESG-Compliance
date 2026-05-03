@@ -46,7 +46,8 @@ export default function RootLayout({
                   </div>
                   KilnSense
                 </div>
-                <p>Built for the 2026 Environmental Tech Hackathon by Engr. Syed Saad Bin Irfan</p>
+               <p>AI-Powered Industrial Emission Compliance System</p>
+               <p>Project Lead: Aiman Afzal</p>
               </div>
               <div className="fcol">
                 <h4>Product</h4>
@@ -63,16 +64,16 @@ export default function RootLayout({
               <div className="fcol">
             <h4>Developer</h4>
              <a 
-              href="https://www.linkedin.com/in/syed-saad-bin-irfan/" 
+              http://www.linkedin.com/in/aimanafzall
               target="_blank" 
               rel="noopener noreferrer"
             >
-            Engr. Syed Saad Bin Irfan
+            Aiman Afzal — Founder & Creator of KilnSense
             </a>
            </div>
             </div>
             <div className="fb2">
-              <p>© 2026 KilnSense Hackathon Project.</p>
+              <p>© 2026 KilnSense. All rights reserved.</p>
               <p>Engineering a sustainable future.</p>
             </div>
           </div>
