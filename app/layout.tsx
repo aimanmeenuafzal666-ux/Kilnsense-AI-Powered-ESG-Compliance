@@ -63,8 +63,8 @@ export default function RootLayout({
               </div>
               <div className="fcol">
             <h4>Developer</h4>
-             <a 
-              http://www.linkedin.com/in/aimanafzall
+            <a 
+              href="https://www.linkedin.com/in/aimanafzall"
               target="_blank" 
               rel="noopener noreferrer"
             >
