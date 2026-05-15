@@ -47,7 +47,6 @@ export default function RootLayout({
                   KilnSense
                 </div>
                <p>AI-Powered Industrial Emission Compliance System</p>
-               <p>Project Lead: Aiman Afzal</p>
               </div>
               <div className="fcol">
                 <h4>Product</h4>
